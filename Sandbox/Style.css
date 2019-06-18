@@ -1,0 +1,114 @@
+.header{
+
+    float: left;
+    display: inline-block;
+    background-color: cadetblue;
+    width: 100%;
+
+
+
+}
+nav{
+
+    height: 50px;
+    display: inline;
+    align-content: flex-start;
+    float: left;
+
+    width: 100%;
+}
+ul{
+ height: 50px;
+    float: left;
+
+}
+
+.registerBut{
+    margin-right: 70px ;
+    float: right;
+    align-self: center;
+    text-align: center;
+    background-color: brown;
+    color: chartreuse;
+}
+.wylogujBut{
+    background-color: chartreuse;
+margin-right: 50px;
+   margin-bottom: 50px;
+    float: right;
+}
+.loginControl{
+    margin-right: 40px;
+    float: right;
+}
+.main-container{
+    margin-left: 30px;
+
+}
+.wyklad{
+    background-color: #39ff14;
+
+}
+.laborki{
+    background-color: #89cff0;
+}
+td{
+    background-color: #d9dddc;
+}
+thead td{
+    background: #ea3b52;
+}
+.contact-content{
+    background-color: green;
+    height: 400px;
+    width: 100%;
+    position: relative;
+
+}
+img{
+    float: left;
+    margin-top: 50px;
+    margin-left: 200px;
+    width: 100px;
+    height: 110px;
+}
+.text{
+
+
+    margin-left: 400px;
+}
+a{
+    color: black;
+}
+.signupOpener{
+
+}
+section{
+
+    text-align: center;
+    display: block;
+}
+.signupForm{
+    align-items: center;
+
+
+}
+.signupElement{
+    margin-top: 20px;
+}
+.loginResponse{
+  font-size: 20px;
+}
+.productForm{
+    margin-left: 150px;
+text-align: center;
+}
+.enlarge-onhover {
+    width: 120px;
+    height: 120px;
+}
+
+.enlarge-onhover:hover {
+    width: 230px;
+    height: 230px;
+}
